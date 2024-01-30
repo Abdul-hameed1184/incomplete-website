@@ -1,0 +1,42 @@
+.compound {
+  background-image: url(interior-1.jpg);
+  background-size: cover;
+  opacity:0.8;
+
+  height: 45rem;
+  
+}
+#land-page {
+  font-size: large;
+  font-weight: 600;
+  /* color: rgb(106, 3, 3); */
+  color: green;
+}
+nav {
+  height: 8rem;
+}
+
+#search-icon {
+  color: black;
+}
+.button{
+    display: flex;
+}
+#btn-land-page{
+    padding: 0.8rem;
+    font-size: large;
+}
+#land-page-head{
+    /* color: rgb(106, 3, 3); */
+    color: green;
+}
+/* #page-card{
+    max-width: 18rem;
+} */
+.card-top{
+    font-size: large;
+    font-weight: 500;
+}
+#img-mid{
+    width: 100%;
+}
